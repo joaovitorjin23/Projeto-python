@@ -58,7 +58,3 @@ aluno: João Vitor Carvalho Rodrigues
 aluno: José Almir da Silva Junior
 aluna: Irisvane Silva
 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
-![Projeto](https://img.shields.io/badge/Projeto-Acad%C3%AAmico-blueviolet?style=for-the-badge)
