@@ -55,6 +55,13 @@ Curso Técnico de Nível Médio emInteligência Artificial - 2026
 professora: Priscila Leylianne S.Gonçalves
 
 aluno: João Vitor Carvalho Rodrigues 
+
+
+
 aluno: José Almir da Silva Junior
+
+
+
+
 aluna: Irisvane Silva
 
