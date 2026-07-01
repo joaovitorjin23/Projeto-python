@@ -2,6 +2,8 @@
 
 ## ✨ Sobre o projeto
 
+Link: (educascore)[https://colab.research.google.com/drive/1hweu_A_C6UCiz7Mg2ub6XyW-b8SRTfjR?usp=sharing]
+
 O **Analisador de Notas e Frequência Escolar** é um sistema desenvolvido em Python para cadastrar alunos, calcular a média ponderada das avaliações e determinar automaticamente a situação final de cada estudante com base nas notas e na frequência.
 
 Este projeto foi desenvolvido com foco em prática de lógica de programação, validação de dados e uso de estruturas básicas da linguagem Python.
