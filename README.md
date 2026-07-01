@@ -1,8 +1,8 @@
 # EducaScore Sistema Inteligente de Análise de Notas e Frequência Escolar
 
-## ✨ Sobre o projeto
-
 Link: (educascore)[https://colab.research.google.com/drive/1hweu_A_C6UCiz7Mg2ub6XyW-b8SRTfjR?usp=sharing]
+
+## ✨ Sobre o projeto
 
 
 O **Analisador de Notas e Frequência Escolar** é um sistema desenvolvido em Python para cadastrar alunos, calcular a média ponderada das avaliações e determinar automaticamente a situação final de cada estudante com base nas notas e na frequência.
