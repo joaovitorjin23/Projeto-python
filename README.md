@@ -1,6 +1,6 @@
 # EducaScore Sistema Inteligente de Análise de Notas e Frequência Escolar
 
-Link: (educascore)[https://colab.research.google.com/drive/1hweu_A_C6UCiz7Mg2ub6XyW-b8SRTfjR?usp=sharing]
+Link: [educascore](https://colab.research.google.com/drive/1hweu_A_C6UCiz7Mg2ub6XyW-b8SRTfjR?usp=sharing)
 
 ## ✨ Sobre o projeto
 
